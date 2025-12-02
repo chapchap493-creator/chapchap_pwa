@@ -1,4 +1,4 @@
-# CHAP-CHAP
+# CHAP-CHAP (Ce projet à été abandonné par manque de mouens financiers)
 
 Application mobile et web (PWA) de recharge pour les utilisateurs en Côte d'Ivoire. Permet aux utilisateurs d'acheter des unités et des forfaits pour les trois principaux opérateurs : Orange, MTN et Moov.
 
